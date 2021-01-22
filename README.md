@@ -1,3 +1,5 @@
+### It is a simple application having user details fetched from jsonplacedolder api. This app helps to understand the bascis of redux, react-redux, middleware (redux-thunk), and lodash utility library. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
